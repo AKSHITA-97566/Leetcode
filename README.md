@@ -8,6 +8,7 @@ Leetcode questions
 | [0069-sqrtx](https://github.com/AKSHITA-97566/Leetcode/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/AKSHITA-97566/Leetcode/tree/master/0319-bulb-switcher) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AKSHITA-97566/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AKSHITA-97566/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2491-smallest-even-multiple](https://github.com/AKSHITA-97566/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/AKSHITA-97566/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2752-sum-multiples](https://github.com/AKSHITA-97566/Leetcode/tree/master/2752-sum-multiples) |
@@ -25,3 +26,7 @@ Leetcode questions
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/AKSHITA-97566/Leetcode/tree/master/2491-smallest-even-multiple) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AKSHITA-97566/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
